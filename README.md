@@ -12,7 +12,7 @@ Before running the project, make sure you have these installed on your laptop:
 ## Clone The Project
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/painting-by-tracie-llc.git
+git clone https://github.com/Yaswanth2120/painting-by-tracie-llc.git
 cd painting-by-tracie-llc
 ```
 
