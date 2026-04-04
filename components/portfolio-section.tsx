@@ -62,7 +62,7 @@ const projects = [
     title: "Bathroom Interior Upgrade",
     category: "Interior",
     beforeImage: "/images/bathroom_before.jpg",
-    afterImage: "/images/bathroom_after.png",
+    afterImage: "/images/bathroom_after.jpg",
     description: "Bright modern Bathroom repaint with clean white and accent tones.",
     location: "Arizona",
     color: "#FF6B6B",
